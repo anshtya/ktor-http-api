@@ -1,0 +1,1 @@
+rootProject.name = "com.anshtya.ktor-http-api"
